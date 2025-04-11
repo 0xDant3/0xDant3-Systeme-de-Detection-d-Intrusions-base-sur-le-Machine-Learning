@@ -51,8 +51,8 @@ pip install -r requirements.txt
 python pfe_definitive.py
 ```
 
-📝 Résultats
+## 📝 Résultats
 Le modèle KNN atteint un score de précision élevé sur les données simulées et réelles. Il permet de détecter efficacement les comportements anormaux dans un trafic réseau.
 
-📄 Rapport
+## 📄 Rapport
 Le rapport détaillé du projet est disponible dans rapport_pfe.pdf.
