@@ -3,8 +3,8 @@
 Projet de Fin d'Études réalisé dans le cadre de la Licence en Sciences Mathématiques et Informatiques (SMI) à l'Université Ibn Tofaïl.
 
 ## 👩‍💻 Réalisé par :
-- **Amzir Adam**
-- **Sennouni Fadwa**
+- **Adam Amzir**
+- **Fadwa Sennouni**
 
 ## 📘 Encadré par :
 - **Pr. Alami Chentoufi Jihane**
@@ -38,5 +38,5 @@ Ce projet a pour but de concevoir un **système de détection d'intrusions (IDS)
 ## 🚀 Comment exécuter le projet
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/<votre_nom>/PFE_IDS_ML.git
+git clone https://github.com/0xDant3/Systeme-de-Detection-d-Intrusions-base-sur-le-Machine-Learning
 ```
