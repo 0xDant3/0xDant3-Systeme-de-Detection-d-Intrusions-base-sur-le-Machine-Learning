@@ -40,3 +40,19 @@ Ce projet a pour but de concevoir un **système de détection d'intrusions (IDS)
 ```bash
 git clone https://github.com/0xDant3/Systeme-de-Detection-d-Intrusions-base-sur-le-Machine-Learning
 ```
+
+2. Installer les dépendances :
+```bash
+pip install -r requirements.txt
+```
+
+3. Lancer le script :
+```bash
+python pfe_definitive.py
+```
+
+📝 Résultats
+Le modèle KNN atteint un score de précision élevé sur les données simulées et réelles. Il permet de détecter efficacement les comportements anormaux dans un trafic réseau.
+
+📄 Rapport
+Le rapport détaillé du projet est disponible dans rapport_pfe.pdf.
