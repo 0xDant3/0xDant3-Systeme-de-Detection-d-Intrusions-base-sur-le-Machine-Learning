@@ -14,7 +14,7 @@ Projet de Fin d'Études réalisé dans le cadre de la Licence en Sciences Mathé
 ---
 
 ## 📌 Objectif
-Ce projet a pour but de concevoir un **système de détection d'intrusions (IDS)** capable d’identifier différentes menaces comme les attaques DoS, le spoofing IP, etc., à l’aide de **l’algorithme K-Nearest Neighbors (K-NN)**.
+Ce projet a pour but de concevoir un **système de détection d'intrusions (IDS)** capable d’identifier différentes menaces comme les attaques DoS, le spoofing IP, etc., à l’aide des algorithmes supervisionées comme **l’algorithme K-Nearest Neighbors (K-NN)**.
 
 ---
 
